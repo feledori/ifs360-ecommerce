@@ -71,7 +71,7 @@ export default function Home({ product }) {
 
 export async function getStaticPaths() {
   const paths = products.map((product) => ({ params: { slug: product.slug } }));
-  return { paths, fallback: true };
+  return { paths, fallback: false };
 }
 
 export async function getStaticProps({ params }) {
