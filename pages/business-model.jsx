@@ -33,8 +33,8 @@ export default function Shop() {
           the secondary source of income. Selling products directly is an easy
           and cost-effective way as we buy the products from our partners and
           resell them. At a later stage, after the company grows, we could
-          introduce an affiliate program for which printers can apply to become
-          partners with us. After that, we can charge you per print product and
+          introduce an affiliate program for which printing companies can apply to become
+          partners with us. After that, we can charge printing companies per print product and
           generate another source of income.
         </p>
 
