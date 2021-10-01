@@ -26,6 +26,9 @@ export const Navbar = ({ presentationMode = false }) => {
               <li>
                 <Link href="/about">The Company</Link>
               </li>
+              <li>
+                <Link href="/business-model">The Business</Link>
+              </li>
             </ul>
           </nav>
         )}
