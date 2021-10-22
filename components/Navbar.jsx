@@ -29,6 +29,9 @@ export const Navbar = ({ presentationMode = false }) => {
               <li>
                 <Link href="/business-model">The Business</Link>
               </li>
+              <li>
+                <Link href="/payment-security">Payment & Security</Link>
+              </li>
             </ul>
           </nav>
         )}
