@@ -32,6 +32,9 @@ export const Navbar = ({ presentationMode = false }) => {
               <li>
                 <Link href="/payment-security">Payment & Security</Link>
               </li>
+              <li>
+                <Link href="/marketing">Marketing & Social Media</Link>
+              </li>
             </ul>
           </nav>
         )}
